@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-I'm a **Computer Science undergraduate** currently in my 2nd year at **UVSQ (Université de Versailles Saint-Quentin-en-Yvelines) Paris-Saclay,** . Passionate about computer systems, cybersecurity, and low-level programming, I'm actively building solid skills across algorithms, data structures, and networking.
+I'm a **Computer Science undergraduate** currently in my 3rd year at **UVSQ (Université de Versailles Saint-Quentin-en-Yvelines) Paris-Saclay,** . Passionate about computer systems, cybersecurity, and low-level programming, I'm actively building solid skills across algorithms, data structures, and networking.
 
 
 
